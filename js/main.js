@@ -24,4 +24,4 @@ const getData = () => {
   // })
 };
 
-btnPobierzDane.addEventListener("click", getData);
+btnPobierzDane.addEventListener('click', getData);
